@@ -17,7 +17,7 @@ high quality, we request that contributions adhere to the following guidelines.
   It’s especially helpful to articulate why this change applies to *everyone*
   who works with the applicable technology, rather than just you or your team.
   
-- **Please consider the scope of your change**. If your change specific to a
+- **Please consider the scope of your change**. If your change is specific to a
   certain language or framework, then make sure the change is made to the
   template for that language or framework, rather than to the template for an
   editor, tool, or operating system.
